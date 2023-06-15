@@ -1,0 +1,3 @@
+Para acceder al código hay que descargar el .zip y descomprimirlo. La carpeta que aparece es la carpeta del proyecto.
+El código .kt (parte lógica) esta en la siguiente ruta: Swan\app\src\main\java\com\kyler\swan
+el código .xml (parte gráfica) esta en la siguiente ruta: Swan\app\src\main\res\layout
